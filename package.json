@@ -1,0 +1,30 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huy2862002/nodeJs-test.git"
+  },
+  "keywords": [
+    "test",
+    "nodejs"
+  ],
+  "author": "Test",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huy2862002/nodeJs-test/issues"
+  },
+  "homepage": "https://github.com/huy2862002/nodeJs-test#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
